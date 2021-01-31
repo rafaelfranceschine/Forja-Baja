@@ -1,0 +1,25 @@
+/*Selector {
+	Property: value;
+}*/
+
+body{
+	background-color:rgba();
+}
+
+p{
+	background-color:rgba();
+	font-size:20px;
+	text-align:center;
+}
+
+h1, h2, h3, h4, h5, h6{
+	background-color:rgba();
+	text-align:center;
+}
+
+ul, ol{
+	background-color:rgba();
+	font-size:20px;
+	list-style:none;
+	text-align:center;
+}
